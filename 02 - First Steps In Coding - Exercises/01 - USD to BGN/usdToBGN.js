@@ -1,6 +1,3 @@
-// Description
-// Write a function which converts USD to BGN. Use fixed currency course between USD and BGN. (1 USD = 1.79549 BGN)
-
 // Input
 // 1. Number
 
