@@ -4,7 +4,7 @@
 ## Description
 #### Write a function which calculates how much money are needed to pay the bill for food
 
-|                        PriceList                        |
+|    Food     |                   Price                   |
 | ----------- | :---------------------------------------: |
 |  Raspberry  |             strawberryPrice / 2           |
 |   Orange    |  raspberryPrice - (raspberryPrice * 40%)  |

@@ -4,7 +4,7 @@
 ## Description
 #### Write a function which calculates how much money a person needs to organize a party if you have this information.
 
-|                   PriceList                  |
+|    Food    |              Price              |
 | ---------- | :-----------------------------: |
 |    Cake    |          roomPrice * 20%        |
 |   Drinks   |  cakePrice - (cakePrice * 45%)  |

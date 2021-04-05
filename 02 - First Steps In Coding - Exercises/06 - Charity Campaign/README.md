@@ -6,7 +6,7 @@
 #### First we get the number of days for the campaign and the number of pastry cooks who will attend.
 #### Then we get the amount of cakes, waffles and pancakes which are going to be cooked by 1 pastry cook for 1 day.
 
-|      PriceList      |
+|    Food    | Price  |
 | ---------- | :----: |
 |    Cake    |   45   |
 |   Waffle   |  5.80  |
