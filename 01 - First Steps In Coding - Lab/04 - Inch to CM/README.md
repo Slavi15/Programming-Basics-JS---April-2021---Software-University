@@ -2,9 +2,10 @@
 ---
 
 ## Description
-#### Convert cm to inch
+Convert cm to inch
 
 ## Input & Output examples
+
 |  Input  |  Output  |
 | ------- | :------: |
 |  [ 5 ]  |   12.7   |

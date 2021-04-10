@@ -2,7 +2,7 @@
 ---
 
 ## Description
-#### Write a function which calculates how much money a person needs to organize a party if you have this information.
+Write a function which calculates how much money a person needs to organize a party if you have this information.
 
 |    Food    |              Price              |
 | ---------- | :-----------------------------: |
@@ -11,10 +11,10 @@
 |  Animator  |          roomPrice / 3          |
 
 ## Input
-#### 1. Price of room - whole num [100 - 10000]
+1. Price of room - whole num [100 - 10000]
 
 ## Output
-#### 1. Budget needed for the party [ Number ]
+1. Budget needed for the party [ Number ]
 
 ## Input & Output examples
 

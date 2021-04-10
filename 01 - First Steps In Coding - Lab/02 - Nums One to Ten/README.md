@@ -2,4 +2,4 @@
 ---
 
 ## Description
-#### Log the numbers from 1 to 10
+Log the numbers from 1 to 10

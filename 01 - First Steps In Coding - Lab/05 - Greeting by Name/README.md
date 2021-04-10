@@ -2,4 +2,4 @@
 ---
 
 ## Description
-#### By given some input, print " Hello, *name* ! "
+By given some input, print " Hello, *name* ! "

@@ -2,15 +2,15 @@
 ---
 
 ## Description
-#### Write a function which calculates how many hours per day a person has to read, so that he reads every book and in the same time has maximum amount of time for extracurricular activities.
+Write a function which calculates how many hours per day a person has to read, so that he reads every book and in the same time has maximum amount of time for extracurricular activities.
 
 ## Input
-#### 1. Number of pages in the book - whole num [0 - 1000]
-#### 2. Number of pages a person can read for 1 hour - whole num [0 - 1000]
-#### 3. Number of days he needs to read a book - whole num [0 - 1000]
+1. Number of pages in the book - whole num [0 - 1000]
+2. Number of pages a person can read for 1 hour - whole num [0 - 1000]
+3. Number of days he needs to read a book - whole num [0 - 1000]
 
 ## Output
-#### 1. Number of hours the person has to read every day
+1. Number of hours the person has to read every day
 
 ## Input & Output examples
 
