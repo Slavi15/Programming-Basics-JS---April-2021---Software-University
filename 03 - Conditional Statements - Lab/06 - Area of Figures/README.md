@@ -2,10 +2,7 @@
 ---
 
 ## Description
-Write a function which gets 2 arguments for figure and length \n
-There are 4 types of figures: **square**, **rectangle**, **circle**, **triangle** \n
-Find the area of the figure based on its type \n
-Print result with 3 characters after the decimal point
+Write a function which gets 2 arguments for figure and length.  There are 4 types of figures: **square**, **rectangle**, **circle**, **triangle**.  Find the area of the figure based on its type.  Print result with 3 characters after the decimal point
 
 ## Input
 1. String - [type of figure]
