@@ -12,6 +12,7 @@ Write a function which converts USD to BGN. Use fixed currency course between US
 
 ## Input & output examples
 
-|  Input   |   Output   |
-| -------- | :--------: |
-|  [ 22 ]  |  39.50078  |
+|   Input   |   Output   |
+| --------- | :--------: |
+|  [ 22 ]   |  39.50078  |
+|  [ 100 ]  |   179.549  |

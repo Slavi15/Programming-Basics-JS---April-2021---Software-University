@@ -21,3 +21,4 @@ Write a function which calculates how much money a person needs to organize a pa
 |   Input    |   Output   |
 | ---------- | :--------: |
 |  [ 2250 ]  |   3697.5   |
+|  [ 3720 ]  |   6113.2   |

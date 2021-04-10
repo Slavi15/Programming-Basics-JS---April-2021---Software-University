@@ -17,3 +17,4 @@ Write a function which calculates how many hours per day a person has to read, s
 |      Input     |   Output  |
 | -------------- | :-------: |
 | [ 212, 20, 2 ] |    5.3    |
+| [ 432, 15, 4 ] |    7.2    |

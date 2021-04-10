@@ -9,4 +9,4 @@ Write a function which calculates how many hours are needed for an architect to 
 2. Number of projects - whole num [0 - 100]
 
 ## Output
-" The architect  _**name**_  will need  _**neededHours**_  hours to complete  _**numberOfProjects**_  project/s. "
+" The architect  **name**  will need  **neededHours**  hours to complete  **numberOfProjects**  project/s. "

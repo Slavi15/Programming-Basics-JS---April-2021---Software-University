@@ -16,6 +16,7 @@ Write a function which calculates how many litres of water the aquarium can cont
 
 ## Input & Output examples
 
-|       Input        |   Output    |
-| ------------------ | :---------: |
-| [ 85, 75, 47, 17 ] |  248.68875  |
+|         Input         |    Output    |
+| --------------------- | :----------: |
+|   [ 85, 75, 47, 17 ]  |  248.68875   |
+| [ 105, 77, 89, 18.5 ] |  586.445475  |

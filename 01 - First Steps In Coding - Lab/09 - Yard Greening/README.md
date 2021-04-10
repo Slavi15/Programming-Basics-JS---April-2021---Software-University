@@ -9,8 +9,8 @@ Write a function which calculates how much money he/she will need if **1 square 
 1. Square meters for greening - real num [0 - 10000]
 
 ## Output
-1. " The final price is: _**finalSum**_ lv. "
-2. " The discount is: _**discount**_ lv. "
+1. " The final price is: **finalSum** lv. "
+2. " The discount is: **discount** lv. "
 
 ## Input & Output examples
 

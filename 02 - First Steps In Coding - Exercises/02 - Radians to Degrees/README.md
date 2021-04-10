@@ -16,3 +16,4 @@ Use this formula:    degree = (radian * 180) / PI
 |  Input   |  Output  |
 | -------- | :------: |
 |  3.1416  |   180    |
+|  0.7854  |    45    |

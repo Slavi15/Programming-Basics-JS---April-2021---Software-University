@@ -27,6 +27,7 @@ Calculate the final sum after paying for the expenses
 
 ## Input & Output examples
 
-|         Input         |   Output   |
-| --------------------- | :--------: |
-| [ 23, 8, 14, 30, 16 ] |  137687.2  |
+|         Input         |    Output   |
+| --------------------- | :---------: |
+| [ 23, 8, 14, 30, 16 ] |  137687.2   |
+| [ 131, 5, 9, 33, 46 ] |  426175.75  |

@@ -15,6 +15,7 @@ Use this formula:    amount = depositedAmount + (depositTerm * (depositAmount * 
 
 ## Input & Output examples
 
-|      Input      |   Output   |
-| --------------- | :--------: |
-| [ 200, 3, 5.7 ] |   202.85   |
+|      Input      |    Output   |
+| --------------- | :---------: |
+| [ 200, 3, 5.7 ] |   202.85    |
+| [ 2350, 6, 7 ]  |   2432.25   |

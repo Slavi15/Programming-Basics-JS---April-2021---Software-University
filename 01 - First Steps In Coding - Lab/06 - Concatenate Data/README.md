@@ -11,4 +11,4 @@ Write a function which concatenates some input
 4. City
 
 ## Output
-" You are _**firstName**_  _**lastName**_, a  _**age**_  -years old person from  _**city**_. "
+" You are **firstName** **lastName**, a **age**-years old person from **city**. "

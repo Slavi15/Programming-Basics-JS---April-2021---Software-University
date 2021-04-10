@@ -22,6 +22,7 @@ Write a function which calculates how much money are needed to pay the bill for 
 
 ## Input & Output examples
 
-|           Input           |   Output   |
-| ------------------------- | :--------: |
-| [ 48, 10, 3.3, 6.5, 1.7 ] |   333.12   |
+|              Input              |    Output    |
+| ------------------------------- | :----------: |
+|    [ 48, 10, 3.3, 6.5, 1.7 ]    |    333.12    |
+| [ 63.5, 3.57, 6.35, 8.15, 2.5 ] |   561.1495   |
