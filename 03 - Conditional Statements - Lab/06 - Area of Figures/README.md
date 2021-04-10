@@ -20,10 +20,5 @@ Print result with 3 characters after the decimal point
 |          Input          |  Output  |
 | ----------------------- | :------: |
 |      ["square", 5]      |  25.000  |
-<<<<<<< HEAD
 |  ["rectangle", 7, 2.5]  |  17.500  |
 |      ["circle", 6]      |  113.097 |
-=======
-|  ["rectangle", 7, 2.5]  |  25.000  |
-|      ["circle", 6]      |  113.097 |
->>>>>>> e1f5ece12728a1711b3f05ff3fa746369f23dd66
