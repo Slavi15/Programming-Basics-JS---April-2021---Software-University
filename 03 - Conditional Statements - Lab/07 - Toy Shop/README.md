@@ -12,8 +12,8 @@ Write a function which calculates how much money a person is going to win after 
 |   Minion   |  8.20  |
 |   Truck    |  2.00  |
 
-If the number of ordered toys is 50 or greater, the shop gives 25% discount.
-Then 10% of the money fo for rent.
+If the number of ordered toys is 50 or greater, the shop gives 25% discount.  
+Then 10% of the money fo for rent.  
 The function calculates if the money are going to be enough for a trip
 
 ## Input

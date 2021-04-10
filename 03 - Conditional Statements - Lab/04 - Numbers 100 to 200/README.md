@@ -2,9 +2,9 @@
 ---
 
 ## Description
-Write a function which gets a number as an argument and checks:
-1. If it is **Less than 100**
-2. If it is **Between 100 and 200**
+Write a function which gets a number as an argument and checks:  
+1. If it is **Less than 100**  
+2. If it is **Between 100 and 200**  
 3. If it is **Greater than 200**
 
 ## Input
