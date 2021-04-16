@@ -6,3 +6,6 @@ function excellentResult(input) {
         return;
     }
 }
+
+excellentResult([6]);
+excellentResult([5]);

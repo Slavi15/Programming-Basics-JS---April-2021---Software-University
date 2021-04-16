@@ -10,3 +10,6 @@ function greaterNum(input) {
         console.log(num1 || num2);
     }
 }
+
+greaterNum([5, 3]);
+greaterNum([10, 10]);

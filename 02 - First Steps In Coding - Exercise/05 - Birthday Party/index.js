@@ -7,3 +7,6 @@ function birthDayParty(input) {
     const sum = roomCost + cakeCost + drinksCost + animatorCost;
     console.log(sum);
 };
+
+birthDayParty([2250]);
+birthDayParty([3720]);

@@ -18,3 +18,7 @@ function timePlus15Min(input) {
         console.log(`${hours}:${minutes}`);
     }
 }
+
+timePlus15Min([1, 46]);
+timePlus15Min([0, 01]);
+timePlus15Min([23, 59]);

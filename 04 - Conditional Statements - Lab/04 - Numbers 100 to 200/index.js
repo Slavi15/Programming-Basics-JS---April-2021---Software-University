@@ -9,3 +9,6 @@ function numbers100To200(input) {
         console.log('Greater than 200');
     }
 }
+
+numbers100To200([95]);
+numbers100To200([120]);

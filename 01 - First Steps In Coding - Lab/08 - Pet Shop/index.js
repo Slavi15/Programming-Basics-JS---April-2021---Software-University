@@ -8,3 +8,5 @@ function petShop(input) {
 
     console.log(`${costForAll} lv.`);
 }
+
+petShop([5, 4]);

@@ -10,3 +10,6 @@ function fishTankVolume(input) {
     const neededLitres = tankVolumeInLitres - (tankVolumeInLitres * percentWithSand);
     console.log(neededLitres);
 };
+
+fishTankVolume([85, 75, 47, 17]);
+fishTankVolume([105, 77, 89, 18.5]);

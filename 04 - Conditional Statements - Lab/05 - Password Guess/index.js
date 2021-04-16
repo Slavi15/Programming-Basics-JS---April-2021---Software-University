@@ -8,3 +8,6 @@ function passwordGuess(input) {
         console.log('Wrong password!')
     }
 }
+
+passwordGuess(["qwerty"]);
+passwordGuess(['s3cr3t!P@ssw0rd']);

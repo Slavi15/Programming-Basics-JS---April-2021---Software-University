@@ -19,3 +19,6 @@ function bonusScore(input) {
     console.log(bonus);
     console.log(bonus + num);
 }
+
+bonusScore([20]);
+bonusScore([2703]);

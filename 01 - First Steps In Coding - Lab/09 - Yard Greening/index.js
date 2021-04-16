@@ -8,3 +8,5 @@ function yardGreening(input) {
     console.log(`The final price is: ${finalCost} lv.`);
     console.log(`The discount is: ${discount} lv.`);
 }
+
+yardGreening([550]);

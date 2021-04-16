@@ -4,3 +4,6 @@ function radianToDegree(input) {
     let converted = ((valueRadian * 180) / PI);
     console.log(converted.toFixed(0));
 };
+
+radianToDegree([3.1416]);
+radianToDegree([0.7854]);

@@ -19,3 +19,6 @@ function charityCampaign(input) {
 
     console.log(valueAfterLoss);
 };
+
+charityCampaign([23, 8, 14, 30, 16]);
+charityCampaign([131, 5, 9, 33, 46]);

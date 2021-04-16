@@ -14,3 +14,6 @@ function sumSeconds(input) {
         console.log(`${minutes}:${seconds}`)
     }
 }
+
+sumSeconds([35, 45, 44]);
+sumSeconds([14, 12, 10]);

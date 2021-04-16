@@ -6,3 +6,6 @@ function depositCalculator(input) {
     const sum = depositAmount + (depositTerm * (depositAmount * AIR) / 12);
     console.log(sum);
 };
+
+depositCalculator([200, 3, 5.7]);
+depositCalculator([2350, 6, 7]);

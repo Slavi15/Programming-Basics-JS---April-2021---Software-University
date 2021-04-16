@@ -7,3 +7,6 @@ function bookList(input) {
     const neededHoursForDay = timeToReadBook / numberOfDays;
     console.log(neededHoursForDay);
 };
+
+bookList([212, 20, 2]);
+bookList([432, 15, 4]);

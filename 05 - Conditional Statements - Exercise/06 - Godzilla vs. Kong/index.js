@@ -18,3 +18,6 @@ function godzillaVsKong(input) {
         console.log(`Action!\nWingard starts filming with ${money.toFixed(2)} leva left.`)
     }
 }
+
+godzillaVsKong([20000, 120, 55.5]);
+godzillaVsKong([9587.88, 222, 55.68])

@@ -14,3 +14,6 @@ function swimmingRecord(input) {
         console.log(`No, he failed! He was ${time.toFixed(2)} seconds slower.`);
     }
 }
+
+swimmingRecord([10464, 1500, 20]);
+swimmingRecord([55555.67, 3017, 5.03]);
