@@ -2,4 +2,6 @@
 
 ![](https://bit.ly/39L8ciu)
 
-![](https://js-book.softuni.bg/assets/JavaScript-Programming-Basics-Book-Cover.png)
+<a href="https://js-book.softuni.bg/">
+  <img src="https://js-book.softuni.bg/assets/JavaScript-Programming-Basics-Book-Cover.png" alt="JS Book SoftUni" align="center" />
+</a>
