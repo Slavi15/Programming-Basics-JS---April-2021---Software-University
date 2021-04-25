@@ -11,7 +11,7 @@ function sameCouples(input) {
         let sortedArray = pairs.sort((a, b) => {
             return a - b;
         });
-        let maxValue = sortedArray.length;
+        let maxValue = sortedArray[sortedArray.length - 1];
         let minValue = sortedArray[0];
         let difference = Math.abs(maxValue - minValue);
         console.log(`No, maxdiff=${difference}`);
