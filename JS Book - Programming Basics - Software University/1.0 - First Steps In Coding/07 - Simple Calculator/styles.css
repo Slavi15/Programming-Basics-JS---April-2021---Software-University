@@ -1,0 +1,21 @@
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    height: 30px;
+    margin: auto 15px;
+}
+
+button {
+    width: 160px;
+    height: 40px;
+    border: 2px solid #282828;
+    outline: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+}
