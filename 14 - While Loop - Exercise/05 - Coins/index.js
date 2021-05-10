@@ -1,6 +1,6 @@
 function coinsFunction(arr) {
     const givenMoney = Number(arr[0]);
-    let moneyTypes = [ 2, 1, 0.5, 0.2, 0.1, 0.05, 0.02, 0.01 ];
+    let moneyTypes = [ 2.00, 1.00, 0.50, 0.20, 0.10, 0.05, 0.02, 0.01 ];
 
     let coinsCount = 0;
     let money = 0;
@@ -9,18 +9,14 @@ function coinsFunction(arr) {
             money += Number(moneyTypes[i]);
             if(money > givenMoney) {
                 money -= Number(moneyTypes[i]);
-                continue;
+            } else {
+                coinsCount += 1;
             }
-            coinsCount += 1;
-            continue;
-        } else if(givenMoney < moneyTypes[i]) {
-            continue;
         } else if(givenMoney == moneyTypes[i]) {
             coinsCount += 1;
             break;
         }
     }
-
     console.log(coinsCount)
 }
 

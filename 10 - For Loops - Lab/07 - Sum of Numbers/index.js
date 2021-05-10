@@ -1,5 +1,5 @@
 function sumOfNumbers(input) {
-    const num = Number(input[0]).toString();
+    const num = input[0].toString();
 
     let sum = 0;
     for(let i = 0; i < num.length; i++) {
