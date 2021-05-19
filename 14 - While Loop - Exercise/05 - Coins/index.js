@@ -7,10 +7,10 @@ function coinsFunction(arr) {
     for(let i = 0; i < moneyTypes.length; i++) {
         if(givenMoney > moneyTypes[i]) {
             money += Number(moneyTypes[i]);
+            coinsCount += 1;
             if(money > givenMoney) {
                 money -= Number(moneyTypes[i]);
-            } else {
-                coinsCount += 1;
+                coinsCount -= 1;
             }
         } else if(givenMoney == moneyTypes[i]) {
             coinsCount += 1;
