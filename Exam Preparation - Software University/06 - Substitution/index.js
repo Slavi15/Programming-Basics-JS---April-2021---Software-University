@@ -1,4 +1,4 @@
-function test(arr) {
+function substitutionFunction(arr) {
     let K = Number(arr[0]);
     let L = Number(arr[1]);
     let M = Number(arr[2]);
@@ -38,5 +38,5 @@ function test(arr) {
     }
 }
 
-test(["7", "6", "8", "5"]);
-test(["6", "7", "5", "6"]);
+substitutionFunction(["7", "6", "8", "5"]);
+substitutionFunction(["6", "7", "5", "6"]);
