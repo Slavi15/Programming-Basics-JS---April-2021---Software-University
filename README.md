@@ -1,3 +1,3 @@
 <h1 align="center">Programming Basics JS - April 2021 - SoftUni</h1>
 
-![](https://scontent.fsof7-1.fna.fbcdn.net/v/t1.6435-9/161964091_10225485303223280_3867968028027111727_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8631f5&_nc_ohc=PCL0P1VhPTQAX-rAcX4&_nc_ht=scontent.fsof7-1.fna&oh=57add1477ee0b72648a7450449c58440&oe=60F34431)
+![](https://scontent.fsof11-1.fna.fbcdn.net/v/t39.30808-6/285263695_482755810292886_6412406064745277988_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8631f5&_nc_ohc=SCRWjy7-ki4AX91HD2j&_nc_ht=scontent.fsof11-1.fna&oh=00_AT8pIe34NcwUbMSliJbVpBEOt3iWa0MUPcai4tXFvS5-AQ&oe=6324A3EB)
